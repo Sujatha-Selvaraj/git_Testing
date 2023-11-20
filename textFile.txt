@@ -2,3 +2,6 @@ in the third commit I am going to use first commit id as tag name
 
 
 ** first commit id as commit message
+
+
+*** Fouth commit - first commit id as tag
