@@ -1,0 +1,1 @@
+Testing text file with previous commit id as committing message and tag name
